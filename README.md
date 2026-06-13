@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tamilselvan P</h1>
-<h3 align="center">ECE Graduate | Aspiring Data Analyst | Python • SQL • Power BI</h3>
+<h3 align="center">ECE Graduate | Python • SQL • Power BI | Curious about Data & Technology</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=ECE+Graduate+%7C+Data+Enthusiast;Learning+Python+%7C+SQL+%7C+Power+BI;Building+Projects+to+Break+Into+Data;Open+to+Entry-Level+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=ECE+Graduate+%7C+Tech+Enthusiast;Exploring+Python+%7C+SQL+%7C+Power+BI;Learning+by+Building+Real+Projects;Excited+to+Kickstart+My+IT+Career+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,10 +10,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.E. in **Electronics & Communication Engineering** — Shree Venkateshwara Hi-Tech Engineering College
-- 📊 Passionate about data — I enjoy turning raw numbers into stories that help businesses make better decisions
-- 🛠️ Gained hands-on exposure to data workflows during a **4-month internship** at Pathfinder Business Analysis Pvt Ltd
-- 🌱 Currently sharpening my skills in **Advanced SQL, Power BI & Statistics**
-- 🔍 Actively looking for **entry-level Data Analyst / Business Analyst** roles
+- 💡 Enjoy solving problems with data — love the moment when a messy dataset starts telling a clear story
+- 🛠️ Got my first taste of real-world data work during a **4-month internship** at Pathfinder Business Analysis Pvt Ltd
+- 🌱 Currently building on **Advanced SQL, Power BI & Statistics**
+- 🚀 Eager to kickstart my career in the IT industry and contribute to a team where I can learn and grow
 - 📍 Based in **Tamil Nadu, India** | Open to Chennai, Bangalore, Hyderabad & Coimbatore
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/tamilselvanp1103)**
 
@@ -90,7 +90,7 @@
 
 ### 🤝 Let's Connect
 
-I'm actively looking for entry-level opportunities where I can contribute, learn, and grow. If you're hiring or just want to connect — feel free to reach out!
+I'm a fresher excited to step into the IT industry and start contributing from day one. Always happy to connect with developers, analysts, and anyone who loves working with data!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tamilselvanp1103" target="_blank">
@@ -107,4 +107,4 @@ I'm actively looking for entry-level opportunities where I can contribute, learn
   <img src="https://komarev.com/ghpvc/?username=Tamilselvanpalanisamy&label=Profile%20Views&color=2196F3&style=flat" alt="profile views"/>
 </p>
 
-<p align="center"><i>I'm on a learning journey — always open to feedback, collaboration, and new opportunities! 🙌</i></p>
+<p align="center"><i>Fresher | Learner | Builder — just getting started, but genuinely excited about every step 🙌</i></p>
