@@ -1,57 +1,71 @@
 <h1 align="center">Hi 👋, I'm Tamilselvan P</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI | Turning Raw Data into Business Insights 📊</h3>
+<h3 align="center">ECE Graduate | Aspiring Data Analyst | Python • SQL • Power BI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Enthusiast;ECE+Graduate+%7C+Data+Driven+Thinker;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=ECE+Graduate+%7C+Data+Enthusiast;Learning+Python+%7C+SQL+%7C+Power+BI;Building+Projects+to+Break+Into+Data;Open+to+Entry-Level+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 B.E. in **Electronics & Communication Engineering** from Shree Venkateshwara Hi-Tech Engineering College
-- 💼 Former **Junior Data Analyst** at Pathfinder Business Analysis Pvt Ltd (4 months)
-- 🔍 Actively looking for **Data Analyst / Business Analyst** roles
-- 🌱 Currently improving my skills in **Advanced SQL, Power BI & Statistics**
+- 🎓 B.E. in **Electronics & Communication Engineering** — Shree Venkateshwara Hi-Tech Engineering College
+- 📊 Passionate about data — I enjoy turning raw numbers into stories that help businesses make better decisions
+- 🛠️ Gained hands-on exposure to data workflows during a **4-month internship** at Pathfinder Business Analysis Pvt Ltd
+- 🌱 Currently sharpening my skills in **Advanced SQL, Power BI & Statistics**
+- 🔍 Actively looking for **entry-level Data Analyst / Business Analyst** roles
 - 📍 Based in **Tamil Nadu, India** | Open to Chennai, Bangalore, Hyderabad & Coimbatore
-- 📫 Reach me at **www.linkedin.com/in/tamilselvanp1103**
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/tamilselvanp1103)**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+| Category | Tools |
+|---|---|
+| Languages | Python, SQL |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Power BI, Matplotlib |
+| Productivity | Microsoft Excel, GitHub, PyCharm |
+
+> I'm still learning and building — every project here is a step forward 🚀
 
 ---
 
-### 📂 Featured Projects
+### 📂 Projects
+
+> These are hands-on projects I built to apply what I've learned. Each one helped me understand a real-world data problem.
+
+---
+
+#### 🔐 [Secure Database Connection Framework](https://github.com/Tamilselvanpalanisamy)
+> Built a Python framework to connect to MySQL databases without exposing credentials in source code. Used `cryptography.fernet` to encrypt passwords and overrode Python's `__str__` and `__repr__` dunder methods to prevent accidental password leaks via `print()` statements — a pattern used in production Data Engineering pipelines.
+
+**What I learned:** Encryption basics, Python OOP, security-conscious coding, runtime decryption  
+**Tools:** Python | cryptography | MySQL | PyCharm
+
+---
 
 #### 🛒 [E-Commerce Customer Segmentation using RFM Analysis](https://github.com/Tamilselvanpalanisamy/ecommerce-customers-rfm-segmentation)
-> Built an end-to-end RFM (Recency, Frequency, Monetary) customer segmentation model using Python and Pandas on e-commerce transaction data. Segmented customers into high-value, loyal, and at-risk groups to support targeted marketing strategies.
+> Applied RFM (Recency, Frequency, Monetary) analysis on e-commerce transaction data to segment customers into high-value, loyal, and at-risk groups — enabling targeted marketing decisions.
 
+**What I learned:** Customer analytics, business thinking with data, segmentation logic  
 **Tools:** Python | Pandas | NumPy | Data Visualization
 
 ---
 
-#### 📊 [Contoso Sales Analysis - Power BI Dashboard](https://github.com/Tamilselvanpalanisamy/contoso-sales-analysis)
-> Analyzed retail sales performance using the Contoso dataset in Power BI. Built interactive dashboards to uncover revenue trends, product performance, and regional insights.
+#### 📊 [Contoso Sales Analysis — Power BI Dashboard](https://github.com/Tamilselvanpalanisamy/contoso-sales-analysis)
+> Built an interactive Power BI dashboard on the Contoso retail dataset to visualize revenue trends, product performance, and regional sales insights.
 
+**What I learned:** DAX formulas, data modeling, dashboard storytelling  
 **Tools:** Power BI | DAX | Data Modeling
 
 ---
 
 #### 🦠 [Covid-19 Data Analysis](https://github.com/Tamilselvanpalanisamy/Covid-19-Data-Analysis)
-> Performed exploratory data analysis on the Covid-19 global dataset using Python and Pandas to uncover trends, patterns, and insights in case counts, recoveries, and fatalities.
+> Explored the global Covid-19 dataset to uncover trends in case counts, recoveries, and fatalities using Python.
 
+**What I learned:** EDA workflow, data cleaning, pattern identification  
 **Tools:** Python | Pandas | Matplotlib | NumPy
 
 ---
@@ -62,7 +76,6 @@
 |---|---|
 | Python (Basic) | HackerRank |
 | Introduction to Data Analytics | Meta |
-| + 2 more | — |
 
 ---
 
@@ -75,7 +88,9 @@
 
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Let's Connect
+
+I'm actively looking for entry-level opportunities where I can contribute, learn, and grow. If you're hiring or just want to connect — feel free to reach out!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tamilselvanp1103" target="_blank">
@@ -92,4 +107,4 @@
   <img src="https://komarev.com/ghpvc/?username=Tamilselvanpalanisamy&label=Profile%20Views&color=2196F3&style=flat" alt="profile views"/>
 </p>
 
-<p align="center">⭐ <i>If you like my work, consider giving my repositories a star!</i> ⭐</p>
+<p align="center"><i>I'm on a learning journey — always open to feedback, collaboration, and new opportunities! 🙌</i></p>
