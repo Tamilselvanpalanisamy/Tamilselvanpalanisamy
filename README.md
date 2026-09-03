@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamilselvan P</h1>
-<h3 align="center">ECE Graduate | Python • SQL • Power BI | Curious about Data & Technology</h3>
+<h3 align="center">ECE Graduate | Python • SQL • Backend Technologies • REST Api  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=ECE+Graduate+%7C+Tech+Enthusiast;Exploring+Python+%7C+SQL+%7C+Power+BI;Learning+by+Building+Real+Projects;Excited+to+Kickstart+My+IT+Career+%F0%9F%9A%80" alt="Typing SVG" />
