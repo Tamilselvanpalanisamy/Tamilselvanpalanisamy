@@ -37,7 +37,7 @@
 > These are hands-on projects I built to apply what I've learned. Each one helped me understand a real-world data problem.
 ---
 
-🔗 URL Shortener — Flask & SQLite
+🔗 [URL Shortener — Flask & SQLite](https://github.com/Tamilselvanpalanisamy/URLshortner)
 
 Built a lightweight URL Shortener web application using Python and Flask that converts long URLs into unique shortened links and redirects users to their original URLs. Implemented SQLite database storage, duplicate URL detection, unique short-hash generation with collision handling, and access-count tracking.
 
